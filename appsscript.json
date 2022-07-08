@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "RedTrack Conversions logs",
+    "logoUrl": "https://redtrack.io/static/favicons/apple-touch-icon-144x144.png",
+    "company": "zotow.work",
+    "companyUrl": "https://zotow.work",
+    "addonUrl": "https://github.com/zotow-work/RedTrack-to-GDS",
+    "supportUrl": "https://zotow.work",
+    "description": "Get RedTrack logs of campaign.",
+    "sources": [
+      "redtrack"
+    ]
+  },
+  "runtimeVersion": "V8",
+  "webapp": {
+    "executeAs": "USER_ACCESSING",
+    "access": "ANYONE"
+  }
+}
